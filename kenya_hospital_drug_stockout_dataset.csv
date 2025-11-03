@@ -1,0 +1,451 @@
+Hospital_ID,County,Drug_Name,Drug_Category,Monthly_Consumption,Stock_On_Hand,Days_Out_of_Stock_Last_Month,Average_Reorder_Delay_Days,Lead_Time,Supplier,Budget_Utilization_%,Stock_Cover_Days,Stockout_Risk
+NAI_001,Nairobi,Amoxicillin 500mg,Amoxicillin,1060,1294,7,9,23,KEMSA,72,36.6,Yes
+NAI_001,Nairobi,Paracetamol 500mg,Paracetamol,530,1482,7,6,12,Private Vendor,73,83.9,Yes
+NAI_001,Nairobi,Coartem 20/120mg,Coartem,330,1685,4,4,16,KEMSA,79,153.2,No
+NAI_001,Nairobi,Insulin 100IU,Insulin,1415,955,4,3,16,Private Vendor,71,20.2,No
+NAI_001,Nairobi,Ceftriaxone 1g,Ceftriaxone,947,856,0,12,20,County Depot,64,27.1,No
+NAI_001,Nairobi,Metformin 500mg,Metformin,389,957,2,14,24,Private Vendor,52,73.8,No
+NAI_001,Nairobi,Ibuprofen 400mg,Ibuprofen,846,20,8,9,22,County Depot,53,0.7,Yes
+NAI_001,Nairobi,ORS Sachet,ORS,800,315,1,11,6,KEMSA,69,11.8,No
+NAI_001,Nairobi,Vitamin B Complex,Vitamin,2339,1390,6,14,12,Private Vendor,96,17.8,Yes
+NAI_001,Nairobi,Dextrose 5%,Dextrose,234,205,0,6,22,KEMSA,89,26.3,No
+NAI_001,Nairobi,Cotrimoxazole 480mg,Cotrimoxazole,1221,1413,5,12,8,County Depot,78,34.7,No
+NAI_001,Nairobi,Salbutamol Inhaler,Salbutamol,902,401,9,14,6,County Depot,59,13.3,Yes
+NAI_001,Nairobi,Omeprazole 20mg,Omeprazole,2181,995,7,16,12,KEMSA,70,13.7,Yes
+NAI_001,Nairobi,Hydralazine 25mg,Hydralazine,537,878,4,15,13,Private Vendor,78,49.1,No
+NAI_001,Nairobi,Gentamicin 80mg,Gentamicin,2262,1836,0,9,13,KEMSA,73,24.4,No
+NAI_002,Nairobi,Amoxicillin 500mg,Amoxicillin,1352,647,7,13,23,Private Vendor,66,14.4,Yes
+NAI_002,Nairobi,Paracetamol 500mg,Paracetamol,591,1698,2,3,9,County Depot,91,86.2,No
+NAI_002,Nairobi,Coartem 20/120mg,Coartem,2478,1017,8,9,13,Private Vendor,57,12.3,Yes
+NAI_002,Nairobi,Insulin 100IU,Insulin,979,929,0,18,9,Private Vendor,84,28.5,Yes
+NAI_002,Nairobi,Ceftriaxone 1g,Ceftriaxone,2095,725,2,3,7,Private Vendor,86,10.4,No
+NAI_002,Nairobi,Metformin 500mg,Metformin,1685,642,0,7,18,KEMSA,88,11.4,No
+NAI_002,Nairobi,Ibuprofen 400mg,Ibuprofen,592,206,9,12,17,County Depot,81,10.4,Yes
+NAI_002,Nairobi,ORS Sachet,ORS,763,1020,3,7,11,County Depot,94,40.1,No
+NAI_002,Nairobi,Vitamin B Complex,Vitamin,1878,1194,3,15,11,KEMSA,71,19.1,No
+NAI_002,Nairobi,Dextrose 5%,Dextrose,2019,577,9,15,10,County Depot,77,8.6,Yes
+NAI_002,Nairobi,Cotrimoxazole 480mg,Cotrimoxazole,1251,1643,3,13,11,KEMSA,82,39.4,No
+NAI_002,Nairobi,Salbutamol Inhaler,Salbutamol,1608,1400,8,15,13,KEMSA,52,26.1,Yes
+NAI_002,Nairobi,Omeprazole 20mg,Omeprazole,909,1479,8,7,5,Private Vendor,91,48.8,Yes
+NAI_002,Nairobi,Hydralazine 25mg,Hydralazine,883,663,5,11,24,KEMSA,98,22.5,No
+NAI_002,Nairobi,Gentamicin 80mg,Gentamicin,2053,1520,9,14,11,KEMSA,51,22.2,Yes
+NAI_003,Nairobi,Amoxicillin 500mg,Amoxicillin,1836,1648,7,19,21,KEMSA,51,26.9,Yes
+NAI_003,Nairobi,Paracetamol 500mg,Paracetamol,841,219,5,7,5,KEMSA,50,7.8,No
+NAI_003,Nairobi,Coartem 20/120mg,Coartem,1861,1153,4,14,10,County Depot,81,18.6,No
+NAI_003,Nairobi,Insulin 100IU,Insulin,2494,835,6,13,21,KEMSA,87,10.0,Yes
+NAI_003,Nairobi,Ceftriaxone 1g,Ceftriaxone,397,981,0,11,10,KEMSA,65,74.1,No
+NAI_003,Nairobi,Metformin 500mg,Metformin,1994,659,3,5,23,KEMSA,69,9.9,No
+NAI_003,Nairobi,Ibuprofen 400mg,Ibuprofen,1934,1843,8,3,12,KEMSA,88,28.6,Yes
+NAI_003,Nairobi,ORS Sachet,ORS,840,1802,8,12,7,County Depot,56,64.4,Yes
+NAI_003,Nairobi,Vitamin B Complex,Vitamin,1987,143,9,18,24,County Depot,98,2.2,Yes
+NAI_003,Nairobi,Dextrose 5%,Dextrose,2249,896,4,7,13,KEMSA,90,12.0,No
+NAI_003,Nairobi,Cotrimoxazole 480mg,Cotrimoxazole,1882,815,2,3,24,Private Vendor,60,13.0,No
+NAI_003,Nairobi,Salbutamol Inhaler,Salbutamol,1848,1991,3,8,12,KEMSA,69,32.3,No
+NAI_003,Nairobi,Omeprazole 20mg,Omeprazole,453,1250,8,5,22,Private Vendor,95,82.8,Yes
+NAI_003,Nairobi,Hydralazine 25mg,Hydralazine,537,1729,5,5,20,County Depot,90,96.6,No
+NAI_003,Nairobi,Gentamicin 80mg,Gentamicin,360,1603,0,16,20,Private Vendor,69,133.6,Yes
+KIS_001,Kisumu,Amoxicillin 500mg,Amoxicillin,1727,1919,7,9,7,Private Vendor,66,33.3,Yes
+KIS_001,Kisumu,Paracetamol 500mg,Paracetamol,839,1056,2,16,10,KEMSA,87,37.8,Yes
+KIS_001,Kisumu,Coartem 20/120mg,Coartem,762,437,7,4,5,County Depot,77,17.2,Yes
+KIS_001,Kisumu,Insulin 100IU,Insulin,1159,1504,4,18,23,KEMSA,53,38.9,Yes
+KIS_001,Kisumu,Ceftriaxone 1g,Ceftriaxone,746,1215,0,19,16,KEMSA,77,48.9,Yes
+KIS_001,Kisumu,Metformin 500mg,Metformin,2405,476,4,8,7,KEMSA,90,5.9,No
+KIS_001,Kisumu,Ibuprofen 400mg,Ibuprofen,1260,279,0,16,7,Private Vendor,82,6.6,Yes
+KIS_001,Kisumu,ORS Sachet,ORS,1339,190,4,3,7,County Depot,67,4.3,Yes
+KIS_001,Kisumu,Vitamin B Complex,Vitamin,2016,1758,5,5,12,Private Vendor,95,26.2,No
+KIS_001,Kisumu,Dextrose 5%,Dextrose,825,1311,5,4,14,KEMSA,51,47.7,No
+KIS_001,Kisumu,Cotrimoxazole 480mg,Cotrimoxazole,984,1127,0,11,15,KEMSA,97,34.4,No
+KIS_001,Kisumu,Salbutamol Inhaler,Salbutamol,1700,1705,6,5,22,KEMSA,74,30.1,Yes
+KIS_001,Kisumu,Omeprazole 20mg,Omeprazole,724,827,9,9,8,County Depot,94,34.3,Yes
+KIS_001,Kisumu,Hydralazine 25mg,Hydralazine,219,320,7,16,20,County Depot,63,43.8,Yes
+KIS_001,Kisumu,Gentamicin 80mg,Gentamicin,1171,1906,6,17,6,Private Vendor,51,48.8,Yes
+KIS_002,Kisumu,Amoxicillin 500mg,Amoxicillin,2023,726,5,19,24,Private Vendor,91,10.8,Yes
+KIS_002,Kisumu,Paracetamol 500mg,Paracetamol,1037,1806,5,13,9,Private Vendor,82,52.2,No
+KIS_002,Kisumu,Coartem 20/120mg,Coartem,1795,1003,4,9,8,County Depot,55,16.8,No
+KIS_002,Kisumu,Insulin 100IU,Insulin,1076,991,3,17,7,Private Vendor,89,27.6,Yes
+KIS_002,Kisumu,Ceftriaxone 1g,Ceftriaxone,468,369,9,19,23,Private Vendor,77,23.7,Yes
+KIS_002,Kisumu,Metformin 500mg,Metformin,1281,1974,9,7,13,KEMSA,61,46.2,Yes
+KIS_002,Kisumu,Ibuprofen 400mg,Ibuprofen,1212,1664,9,3,19,KEMSA,83,41.2,Yes
+KIS_002,Kisumu,ORS Sachet,ORS,1319,1661,5,18,12,KEMSA,94,37.8,Yes
+KIS_002,Kisumu,Vitamin B Complex,Vitamin,1096,1295,6,7,7,Private Vendor,61,35.4,Yes
+KIS_002,Kisumu,Dextrose 5%,Dextrose,353,1679,2,7,18,KEMSA,77,142.7,No
+KIS_002,Kisumu,Cotrimoxazole 480mg,Cotrimoxazole,1292,1070,0,16,24,Private Vendor,54,24.8,Yes
+KIS_002,Kisumu,Salbutamol Inhaler,Salbutamol,1427,911,9,18,11,KEMSA,85,19.2,Yes
+KIS_002,Kisumu,Omeprazole 20mg,Omeprazole,1512,1277,4,12,9,KEMSA,85,25.3,No
+KIS_002,Kisumu,Hydralazine 25mg,Hydralazine,1831,768,7,7,17,Private Vendor,53,12.6,Yes
+KIS_002,Kisumu,Gentamicin 80mg,Gentamicin,535,1782,1,19,24,Private Vendor,73,99.9,Yes
+KIS_003,Kisumu,Amoxicillin 500mg,Amoxicillin,2131,689,2,3,5,Private Vendor,92,9.7,No
+KIS_003,Kisumu,Paracetamol 500mg,Paracetamol,1836,1291,2,3,5,County Depot,89,21.1,No
+KIS_003,Kisumu,Coartem 20/120mg,Coartem,1266,1579,1,5,21,KEMSA,75,37.4,No
+KIS_003,Kisumu,Insulin 100IU,Insulin,975,604,9,12,6,County Depot,90,18.6,Yes
+KIS_003,Kisumu,Ceftriaxone 1g,Ceftriaxone,1025,1524,1,15,15,KEMSA,78,44.6,No
+KIS_003,Kisumu,Metformin 500mg,Metformin,928,1300,8,6,14,County Depot,86,42.0,Yes
+KIS_003,Kisumu,Ibuprofen 400mg,Ibuprofen,2439,738,0,5,20,County Depot,85,9.1,No
+KIS_003,Kisumu,ORS Sachet,ORS,1177,1008,6,7,16,County Depot,98,25.7,Yes
+KIS_003,Kisumu,Vitamin B Complex,Vitamin,1748,278,8,5,13,Private Vendor,79,4.8,Yes
+KIS_003,Kisumu,Dextrose 5%,Dextrose,1496,1904,3,18,17,KEMSA,68,38.2,Yes
+KIS_003,Kisumu,Cotrimoxazole 480mg,Cotrimoxazole,2424,1635,8,14,13,County Depot,56,20.2,Yes
+KIS_003,Kisumu,Salbutamol Inhaler,Salbutamol,2019,717,3,17,20,County Depot,54,10.7,Yes
+KIS_003,Kisumu,Omeprazole 20mg,Omeprazole,595,1048,3,6,20,KEMSA,88,52.8,No
+KIS_003,Kisumu,Hydralazine 25mg,Hydralazine,2356,1716,9,9,18,Private Vendor,80,21.9,Yes
+KIS_003,Kisumu,Gentamicin 80mg,Gentamicin,833,1156,2,13,15,County Depot,67,41.6,No
+MOM_001,Mombasa,Amoxicillin 500mg,Amoxicillin,950,587,8,12,16,KEMSA,66,18.5,Yes
+MOM_001,Mombasa,Paracetamol 500mg,Paracetamol,1742,1197,7,12,13,KEMSA,99,20.6,Yes
+MOM_001,Mombasa,Coartem 20/120mg,Coartem,1417,1540,4,8,23,County Depot,57,32.6,No
+MOM_001,Mombasa,Insulin 100IU,Insulin,1719,1388,0,19,11,KEMSA,74,24.2,Yes
+MOM_001,Mombasa,Ceftriaxone 1g,Ceftriaxone,1524,1155,3,8,23,KEMSA,93,22.7,No
+MOM_001,Mombasa,Metformin 500mg,Metformin,1405,166,9,9,7,County Depot,94,3.5,Yes
+MOM_001,Mombasa,Ibuprofen 400mg,Ibuprofen,852,753,9,10,13,Private Vendor,88,26.5,Yes
+MOM_001,Mombasa,ORS Sachet,ORS,2196,347,8,19,5,KEMSA,87,4.7,Yes
+MOM_001,Mombasa,Vitamin B Complex,Vitamin,1340,133,9,14,17,KEMSA,81,3.0,Yes
+MOM_001,Mombasa,Dextrose 5%,Dextrose,2420,1852,4,18,15,KEMSA,86,23.0,Yes
+MOM_001,Mombasa,Cotrimoxazole 480mg,Cotrimoxazole,1899,1250,2,17,13,County Depot,98,19.7,Yes
+MOM_001,Mombasa,Salbutamol Inhaler,Salbutamol,1749,1166,0,5,20,County Depot,72,20.0,No
+MOM_001,Mombasa,Omeprazole 20mg,Omeprazole,1235,1353,7,8,16,Private Vendor,73,32.9,Yes
+MOM_001,Mombasa,Hydralazine 25mg,Hydralazine,867,372,7,6,12,County Depot,99,12.9,Yes
+MOM_001,Mombasa,Gentamicin 80mg,Gentamicin,739,731,4,11,8,County Depot,76,29.7,No
+MOM_002,Mombasa,Amoxicillin 500mg,Amoxicillin,1424,928,4,15,20,Private Vendor,78,19.6,No
+MOM_002,Mombasa,Paracetamol 500mg,Paracetamol,1781,1570,5,7,19,County Depot,74,26.4,No
+MOM_002,Mombasa,Coartem 20/120mg,Coartem,209,823,1,15,9,KEMSA,82,118.1,No
+MOM_002,Mombasa,Insulin 100IU,Insulin,573,1088,1,17,21,County Depot,60,57.0,Yes
+MOM_002,Mombasa,Ceftriaxone 1g,Ceftriaxone,1052,1305,8,19,17,County Depot,82,37.2,Yes
+MOM_002,Mombasa,Metformin 500mg,Metformin,1833,104,2,3,20,County Depot,55,1.7,Yes
+MOM_002,Mombasa,Ibuprofen 400mg,Ibuprofen,675,708,4,8,7,County Depot,72,31.5,No
+MOM_002,Mombasa,ORS Sachet,ORS,913,1481,2,19,18,County Depot,58,48.7,Yes
+MOM_002,Mombasa,Vitamin B Complex,Vitamin,2101,0,2,15,17,County Depot,53,0.0,Yes
+MOM_002,Mombasa,Dextrose 5%,Dextrose,1669,448,0,10,6,Private Vendor,77,8.1,No
+MOM_002,Mombasa,Cotrimoxazole 480mg,Cotrimoxazole,2342,1095,6,4,7,Private Vendor,99,14.0,Yes
+MOM_002,Mombasa,Salbutamol Inhaler,Salbutamol,467,1984,5,14,9,Private Vendor,79,127.5,No
+MOM_002,Mombasa,Omeprazole 20mg,Omeprazole,962,1848,0,18,19,Private Vendor,72,57.6,Yes
+MOM_002,Mombasa,Hydralazine 25mg,Hydralazine,1452,852,1,13,23,Private Vendor,88,17.6,No
+MOM_002,Mombasa,Gentamicin 80mg,Gentamicin,963,737,5,4,22,KEMSA,79,23.0,No
+MOM_003,Mombasa,Amoxicillin 500mg,Amoxicillin,1558,858,2,4,24,County Depot,87,16.5,No
+MOM_003,Mombasa,Paracetamol 500mg,Paracetamol,1558,1019,6,12,23,County Depot,66,19.6,Yes
+MOM_003,Mombasa,Coartem 20/120mg,Coartem,2380,796,3,12,21,KEMSA,59,10.0,No
+MOM_003,Mombasa,Insulin 100IU,Insulin,2075,983,4,4,10,Private Vendor,51,14.2,No
+MOM_003,Mombasa,Ceftriaxone 1g,Ceftriaxone,404,125,2,17,20,KEMSA,80,9.3,Yes
+MOM_003,Mombasa,Metformin 500mg,Metformin,2194,1397,7,6,12,KEMSA,53,19.1,Yes
+MOM_003,Mombasa,Ibuprofen 400mg,Ibuprofen,1919,280,2,5,22,Private Vendor,68,4.4,Yes
+MOM_003,Mombasa,ORS Sachet,ORS,1228,1489,9,8,5,County Depot,54,36.4,Yes
+MOM_003,Mombasa,Vitamin B Complex,Vitamin,2480,523,9,16,6,KEMSA,98,6.3,Yes
+MOM_003,Mombasa,Dextrose 5%,Dextrose,1301,1753,8,17,19,Private Vendor,79,40.4,Yes
+MOM_003,Mombasa,Cotrimoxazole 480mg,Cotrimoxazole,306,830,0,6,5,KEMSA,57,81.4,No
+MOM_003,Mombasa,Salbutamol Inhaler,Salbutamol,824,1890,3,17,19,County Depot,71,68.8,Yes
+MOM_003,Mombasa,Omeprazole 20mg,Omeprazole,725,473,6,16,6,Private Vendor,94,19.6,Yes
+MOM_003,Mombasa,Hydralazine 25mg,Hydralazine,725,698,7,9,7,KEMSA,96,28.9,Yes
+MOM_003,Mombasa,Gentamicin 80mg,Gentamicin,1118,749,1,8,7,KEMSA,64,20.1,No
+NAK_001,Nakuru,Amoxicillin 500mg,Amoxicillin,1415,1654,4,12,11,County Depot,66,35.1,No
+NAK_001,Nakuru,Paracetamol 500mg,Paracetamol,1454,85,9,14,21,KEMSA,62,1.8,Yes
+NAK_001,Nakuru,Coartem 20/120mg,Coartem,2272,1603,9,5,13,KEMSA,94,21.2,Yes
+NAK_001,Nakuru,Insulin 100IU,Insulin,1369,110,3,17,6,County Depot,96,2.4,Yes
+NAK_001,Nakuru,Ceftriaxone 1g,Ceftriaxone,1741,691,9,4,17,Private Vendor,55,11.9,Yes
+NAK_001,Nakuru,Metformin 500mg,Metformin,1512,1460,5,8,10,County Depot,97,29.0,No
+NAK_001,Nakuru,Ibuprofen 400mg,Ibuprofen,1830,1687,6,11,7,Private Vendor,80,27.7,Yes
+NAK_001,Nakuru,ORS Sachet,ORS,1263,228,3,8,6,County Depot,69,5.4,No
+NAK_001,Nakuru,Vitamin B Complex,Vitamin,1955,74,3,17,10,County Depot,98,1.1,Yes
+NAK_001,Nakuru,Dextrose 5%,Dextrose,1829,503,5,4,19,Private Vendor,60,8.3,No
+NAK_001,Nakuru,Cotrimoxazole 480mg,Cotrimoxazole,1615,1049,2,15,16,Private Vendor,54,19.5,No
+NAK_001,Nakuru,Salbutamol Inhaler,Salbutamol,1633,1141,3,3,24,KEMSA,98,21.0,No
+NAK_001,Nakuru,Omeprazole 20mg,Omeprazole,2387,558,0,16,10,County Depot,86,7.0,Yes
+NAK_001,Nakuru,Hydralazine 25mg,Hydralazine,2117,138,3,15,15,County Depot,52,2.0,Yes
+NAK_001,Nakuru,Gentamicin 80mg,Gentamicin,1101,689,7,12,9,Private Vendor,72,18.8,Yes
+NAK_002,Nakuru,Amoxicillin 500mg,Amoxicillin,1873,171,1,15,12,County Depot,51,2.7,Yes
+NAK_002,Nakuru,Paracetamol 500mg,Paracetamol,1819,320,4,11,21,County Depot,58,5.3,No
+NAK_002,Nakuru,Coartem 20/120mg,Coartem,2194,910,7,8,7,Private Vendor,79,12.4,Yes
+NAK_002,Nakuru,Insulin 100IU,Insulin,1318,1840,4,14,22,Private Vendor,63,41.9,No
+NAK_002,Nakuru,Ceftriaxone 1g,Ceftriaxone,2108,375,8,4,16,KEMSA,84,5.3,Yes
+NAK_002,Nakuru,Metformin 500mg,Metformin,1770,512,7,10,15,County Depot,90,8.7,Yes
+NAK_002,Nakuru,Ibuprofen 400mg,Ibuprofen,1452,269,2,7,9,County Depot,68,5.6,No
+NAK_002,Nakuru,ORS Sachet,ORS,277,1433,3,15,14,County Depot,74,155.2,No
+NAK_002,Nakuru,Vitamin B Complex,Vitamin,2063,1318,7,16,23,County Depot,87,19.2,Yes
+NAK_002,Nakuru,Dextrose 5%,Dextrose,2088,1046,0,19,5,County Depot,96,15.0,Yes
+NAK_002,Nakuru,Cotrimoxazole 480mg,Cotrimoxazole,702,1985,4,10,12,KEMSA,88,84.8,No
+NAK_002,Nakuru,Salbutamol Inhaler,Salbutamol,2170,197,5,5,11,KEMSA,57,2.7,Yes
+NAK_002,Nakuru,Omeprazole 20mg,Omeprazole,1671,1523,0,9,8,KEMSA,78,27.3,No
+NAK_002,Nakuru,Hydralazine 25mg,Hydralazine,1320,1020,4,3,8,KEMSA,71,23.2,No
+NAK_002,Nakuru,Gentamicin 80mg,Gentamicin,2057,1545,4,12,5,Private Vendor,87,22.5,No
+NAK_003,Nakuru,Amoxicillin 500mg,Amoxicillin,2132,1182,3,15,24,Private Vendor,64,16.6,No
+NAK_003,Nakuru,Paracetamol 500mg,Paracetamol,2294,323,1,6,8,Private Vendor,75,4.2,Yes
+NAK_003,Nakuru,Coartem 20/120mg,Coartem,2034,1306,4,13,14,County Depot,89,19.3,No
+NAK_003,Nakuru,Insulin 100IU,Insulin,911,22,9,16,15,County Depot,61,0.7,Yes
+NAK_003,Nakuru,Ceftriaxone 1g,Ceftriaxone,2465,140,7,3,19,County Depot,89,1.7,Yes
+NAK_003,Nakuru,Metformin 500mg,Metformin,1027,682,3,18,8,County Depot,54,19.9,Yes
+NAK_003,Nakuru,Ibuprofen 400mg,Ibuprofen,2063,126,9,19,13,County Depot,78,1.8,Yes
+NAK_003,Nakuru,ORS Sachet,ORS,1630,1792,4,16,8,KEMSA,72,33.0,Yes
+NAK_003,Nakuru,Vitamin B Complex,Vitamin,2054,1973,6,10,19,County Depot,70,28.8,Yes
+NAK_003,Nakuru,Dextrose 5%,Dextrose,1532,1160,9,11,7,Private Vendor,74,22.7,Yes
+NAK_003,Nakuru,Cotrimoxazole 480mg,Cotrimoxazole,1825,74,5,4,11,Private Vendor,67,1.2,Yes
+NAK_003,Nakuru,Salbutamol Inhaler,Salbutamol,674,417,0,13,16,County Depot,73,18.6,No
+NAK_003,Nakuru,Omeprazole 20mg,Omeprazole,224,1990,3,8,5,KEMSA,98,266.5,No
+NAK_003,Nakuru,Hydralazine 25mg,Hydralazine,484,62,5,19,11,Private Vendor,66,3.8,Yes
+NAK_003,Nakuru,Gentamicin 80mg,Gentamicin,1307,1384,0,10,21,Private Vendor,56,31.8,No
+KIA_001,Kiambu,Amoxicillin 500mg,Amoxicillin,1992,1759,6,19,17,KEMSA,78,26.5,Yes
+KIA_001,Kiambu,Paracetamol 500mg,Paracetamol,485,1167,7,3,18,KEMSA,96,72.2,Yes
+KIA_001,Kiambu,Coartem 20/120mg,Coartem,393,501,0,8,23,KEMSA,53,38.2,No
+KIA_001,Kiambu,Insulin 100IU,Insulin,2120,1287,6,9,7,KEMSA,81,18.2,Yes
+KIA_001,Kiambu,Ceftriaxone 1g,Ceftriaxone,977,1481,2,16,6,KEMSA,82,45.5,Yes
+KIA_001,Kiambu,Metformin 500mg,Metformin,2334,54,1,9,12,Private Vendor,50,0.7,Yes
+KIA_001,Kiambu,Ibuprofen 400mg,Ibuprofen,512,758,2,10,19,County Depot,86,44.4,No
+KIA_001,Kiambu,ORS Sachet,ORS,1487,1441,2,16,18,KEMSA,92,29.1,Yes
+KIA_001,Kiambu,Vitamin B Complex,Vitamin,651,1523,4,16,20,Private Vendor,67,70.2,Yes
+KIA_001,Kiambu,Dextrose 5%,Dextrose,2254,329,6,3,23,County Depot,97,4.4,Yes
+KIA_001,Kiambu,Cotrimoxazole 480mg,Cotrimoxazole,1114,1571,1,4,5,County Depot,96,42.3,No
+KIA_001,Kiambu,Salbutamol Inhaler,Salbutamol,2139,1546,9,4,7,KEMSA,72,21.7,Yes
+KIA_001,Kiambu,Omeprazole 20mg,Omeprazole,595,1555,4,7,10,KEMSA,79,78.4,No
+KIA_001,Kiambu,Hydralazine 25mg,Hydralazine,1104,1249,4,14,7,KEMSA,71,33.9,No
+KIA_001,Kiambu,Gentamicin 80mg,Gentamicin,1587,1303,0,12,18,Private Vendor,72,24.6,No
+KIA_002,Kiambu,Amoxicillin 500mg,Amoxicillin,327,735,0,19,18,Private Vendor,58,67.4,Yes
+KIA_002,Kiambu,Paracetamol 500mg,Paracetamol,436,1304,6,11,15,County Depot,95,89.7,Yes
+KIA_002,Kiambu,Coartem 20/120mg,Coartem,2251,665,9,15,6,KEMSA,72,8.9,Yes
+KIA_002,Kiambu,Insulin 100IU,Insulin,1004,74,5,12,8,KEMSA,90,2.2,Yes
+KIA_002,Kiambu,Ceftriaxone 1g,Ceftriaxone,2281,1040,4,8,16,KEMSA,72,13.7,No
+KIA_002,Kiambu,Metformin 500mg,Metformin,541,26,8,8,12,Private Vendor,83,1.4,Yes
+KIA_002,Kiambu,Ibuprofen 400mg,Ibuprofen,1972,820,6,12,17,County Depot,66,12.5,Yes
+KIA_002,Kiambu,ORS Sachet,ORS,901,633,1,13,5,KEMSA,85,21.1,No
+KIA_002,Kiambu,Vitamin B Complex,Vitamin,1594,793,4,13,12,County Depot,60,14.9,No
+KIA_002,Kiambu,Dextrose 5%,Dextrose,1336,186,6,10,7,County Depot,83,4.2,Yes
+KIA_002,Kiambu,Cotrimoxazole 480mg,Cotrimoxazole,254,622,7,7,5,Private Vendor,85,73.5,Yes
+KIA_002,Kiambu,Salbutamol Inhaler,Salbutamol,950,1171,2,5,24,KEMSA,92,37.0,No
+KIA_002,Kiambu,Omeprazole 20mg,Omeprazole,564,481,8,4,13,KEMSA,58,25.6,Yes
+KIA_002,Kiambu,Hydralazine 25mg,Hydralazine,1240,1664,8,13,12,County Depot,91,40.3,Yes
+KIA_002,Kiambu,Gentamicin 80mg,Gentamicin,224,1062,2,5,22,Private Vendor,86,142.2,No
+KIA_003,Kiambu,Amoxicillin 500mg,Amoxicillin,307,171,2,8,6,Private Vendor,61,16.7,No
+KIA_003,Kiambu,Paracetamol 500mg,Paracetamol,1836,1067,0,19,14,KEMSA,98,17.4,Yes
+KIA_003,Kiambu,Coartem 20/120mg,Coartem,211,1341,7,10,21,KEMSA,72,190.7,Yes
+KIA_003,Kiambu,Insulin 100IU,Insulin,1708,373,5,10,22,KEMSA,74,6.6,No
+KIA_003,Kiambu,Ceftriaxone 1g,Ceftriaxone,1491,1678,9,11,17,Private Vendor,75,33.8,Yes
+KIA_003,Kiambu,Metformin 500mg,Metformin,246,1311,9,18,11,Private Vendor,66,159.9,Yes
+KIA_003,Kiambu,Ibuprofen 400mg,Ibuprofen,2017,980,5,9,18,Private Vendor,64,14.6,No
+KIA_003,Kiambu,ORS Sachet,ORS,828,1542,8,18,12,County Depot,99,55.9,Yes
+KIA_003,Kiambu,Vitamin B Complex,Vitamin,1026,726,1,9,7,KEMSA,67,21.2,No
+KIA_003,Kiambu,Dextrose 5%,Dextrose,1666,1513,6,19,18,Private Vendor,80,27.2,Yes
+KIA_003,Kiambu,Cotrimoxazole 480mg,Cotrimoxazole,2435,1836,1,5,9,County Depot,92,22.6,No
+KIA_003,Kiambu,Salbutamol Inhaler,Salbutamol,382,982,6,17,21,County Depot,53,77.1,Yes
+KIA_003,Kiambu,Omeprazole 20mg,Omeprazole,1572,981,8,15,22,KEMSA,82,18.7,Yes
+KIA_003,Kiambu,Hydralazine 25mg,Hydralazine,215,492,9,14,6,KEMSA,84,68.7,Yes
+KIA_003,Kiambu,Gentamicin 80mg,Gentamicin,745,413,6,15,17,Private Vendor,67,16.6,Yes
+MAC_001,Machakos,Amoxicillin 500mg,Amoxicillin,1831,1762,6,16,24,County Depot,78,28.9,Yes
+MAC_001,Machakos,Paracetamol 500mg,Paracetamol,1157,476,4,14,20,KEMSA,93,12.3,No
+MAC_001,Machakos,Coartem 20/120mg,Coartem,1462,376,9,9,24,KEMSA,54,7.7,Yes
+MAC_001,Machakos,Insulin 100IU,Insulin,2250,1452,7,6,22,County Depot,86,19.4,Yes
+MAC_001,Machakos,Ceftriaxone 1g,Ceftriaxone,631,704,4,16,19,County Depot,58,33.5,Yes
+MAC_001,Machakos,Metformin 500mg,Metformin,598,816,8,6,16,County Depot,86,40.9,Yes
+MAC_001,Machakos,Ibuprofen 400mg,Ibuprofen,2308,938,5,9,18,KEMSA,73,12.2,No
+MAC_001,Machakos,ORS Sachet,ORS,210,1085,1,9,24,KEMSA,53,155.0,No
+MAC_001,Machakos,Vitamin B Complex,Vitamin,1794,1607,3,15,18,County Depot,59,26.9,No
+MAC_001,Machakos,Dextrose 5%,Dextrose,425,824,9,11,21,County Depot,52,58.2,Yes
+MAC_001,Machakos,Cotrimoxazole 480mg,Cotrimoxazole,2111,1797,4,7,19,County Depot,72,25.5,No
+MAC_001,Machakos,Salbutamol Inhaler,Salbutamol,1744,1122,3,19,14,Private Vendor,84,19.3,Yes
+MAC_001,Machakos,Omeprazole 20mg,Omeprazole,1049,61,0,5,7,Private Vendor,87,1.7,Yes
+MAC_001,Machakos,Hydralazine 25mg,Hydralazine,980,1143,8,11,8,KEMSA,63,35.0,Yes
+MAC_001,Machakos,Gentamicin 80mg,Gentamicin,1580,1633,8,5,13,Private Vendor,52,31.0,Yes
+MAC_002,Machakos,Amoxicillin 500mg,Amoxicillin,1120,737,9,11,19,County Depot,89,19.7,Yes
+MAC_002,Machakos,Paracetamol 500mg,Paracetamol,1760,1284,1,17,10,KEMSA,57,21.9,Yes
+MAC_002,Machakos,Coartem 20/120mg,Coartem,1474,1924,9,8,9,County Depot,97,39.2,Yes
+MAC_002,Machakos,Insulin 100IU,Insulin,995,1988,0,10,17,Private Vendor,81,59.9,No
+MAC_002,Machakos,Ceftriaxone 1g,Ceftriaxone,517,348,2,5,12,KEMSA,83,20.2,No
+MAC_002,Machakos,Metformin 500mg,Metformin,2287,1882,0,8,23,KEMSA,65,24.7,No
+MAC_002,Machakos,Ibuprofen 400mg,Ibuprofen,2339,352,8,15,15,KEMSA,94,4.5,Yes
+MAC_002,Machakos,ORS Sachet,ORS,1916,1193,3,8,11,County Depot,54,18.7,No
+MAC_002,Machakos,Vitamin B Complex,Vitamin,756,825,8,12,14,County Depot,81,32.7,Yes
+MAC_002,Machakos,Dextrose 5%,Dextrose,1774,1950,1,6,6,Private Vendor,63,33.0,No
+MAC_002,Machakos,Cotrimoxazole 480mg,Cotrimoxazole,788,1547,6,4,17,KEMSA,95,58.9,Yes
+MAC_002,Machakos,Salbutamol Inhaler,Salbutamol,1890,1136,8,19,12,County Depot,80,18.0,Yes
+MAC_002,Machakos,Omeprazole 20mg,Omeprazole,899,447,7,15,7,County Depot,97,14.9,Yes
+MAC_002,Machakos,Hydralazine 25mg,Hydralazine,1549,466,6,12,13,KEMSA,81,9.0,Yes
+MAC_002,Machakos,Gentamicin 80mg,Gentamicin,1193,1854,4,6,24,KEMSA,81,46.6,No
+MAC_003,Machakos,Amoxicillin 500mg,Amoxicillin,683,1265,3,19,16,Private Vendor,71,55.6,Yes
+MAC_003,Machakos,Paracetamol 500mg,Paracetamol,1085,704,5,16,19,Private Vendor,78,19.5,Yes
+MAC_003,Machakos,Coartem 20/120mg,Coartem,915,1699,2,14,11,KEMSA,78,55.7,No
+MAC_003,Machakos,Insulin 100IU,Insulin,1106,1056,5,17,19,County Depot,81,28.6,Yes
+MAC_003,Machakos,Ceftriaxone 1g,Ceftriaxone,769,1561,1,16,6,Private Vendor,78,60.9,Yes
+MAC_003,Machakos,Metformin 500mg,Metformin,715,1122,8,9,19,KEMSA,78,47.1,Yes
+MAC_003,Machakos,Ibuprofen 400mg,Ibuprofen,2404,1098,3,4,19,KEMSA,63,13.7,No
+MAC_003,Machakos,ORS Sachet,ORS,1762,1730,0,14,19,KEMSA,65,29.5,No
+MAC_003,Machakos,Vitamin B Complex,Vitamin,1068,1978,3,8,23,Private Vendor,54,55.6,No
+MAC_003,Machakos,Dextrose 5%,Dextrose,1610,1530,0,8,19,Private Vendor,83,28.5,No
+MAC_003,Machakos,Cotrimoxazole 480mg,Cotrimoxazole,2180,1186,0,14,22,Private Vendor,64,16.3,No
+MAC_003,Machakos,Salbutamol Inhaler,Salbutamol,2455,1562,7,16,21,County Depot,78,19.1,Yes
+MAC_003,Machakos,Omeprazole 20mg,Omeprazole,719,590,1,9,7,County Depot,78,24.6,No
+MAC_003,Machakos,Hydralazine 25mg,Hydralazine,1159,1963,4,5,24,KEMSA,95,50.8,No
+MAC_003,Machakos,Gentamicin 80mg,Gentamicin,726,1176,6,19,16,KEMSA,69,48.6,Yes
+UAS_001,Uasin Gishu,Amoxicillin 500mg,Amoxicillin,1963,520,5,18,6,County Depot,73,7.9,Yes
+UAS_001,Uasin Gishu,Paracetamol 500mg,Paracetamol,783,394,0,10,22,Private Vendor,79,15.1,No
+UAS_001,Uasin Gishu,Coartem 20/120mg,Coartem,1543,337,5,13,17,Private Vendor,74,6.6,No
+UAS_001,Uasin Gishu,Insulin 100IU,Insulin,2243,101,8,10,15,KEMSA,71,1.4,Yes
+UAS_001,Uasin Gishu,Ceftriaxone 1g,Ceftriaxone,1311,1576,0,14,18,County Depot,81,36.1,No
+UAS_001,Uasin Gishu,Metformin 500mg,Metformin,791,1333,5,3,14,County Depot,89,50.6,No
+UAS_001,Uasin Gishu,Ibuprofen 400mg,Ibuprofen,2151,241,0,4,5,KEMSA,82,3.4,Yes
+UAS_001,Uasin Gishu,ORS Sachet,ORS,1968,1996,0,15,24,County Depot,75,30.4,No
+UAS_001,Uasin Gishu,Vitamin B Complex,Vitamin,1117,1126,1,8,11,County Depot,75,30.2,No
+UAS_001,Uasin Gishu,Dextrose 5%,Dextrose,1909,121,1,17,6,County Depot,91,1.9,Yes
+UAS_001,Uasin Gishu,Cotrimoxazole 480mg,Cotrimoxazole,1086,427,0,10,15,Private Vendor,52,11.8,No
+UAS_001,Uasin Gishu,Salbutamol Inhaler,Salbutamol,834,1925,8,8,13,Private Vendor,88,69.2,Yes
+UAS_001,Uasin Gishu,Omeprazole 20mg,Omeprazole,2470,1439,8,14,12,Private Vendor,57,17.5,Yes
+UAS_001,Uasin Gishu,Hydralazine 25mg,Hydralazine,1913,1883,3,17,11,County Depot,60,29.5,Yes
+UAS_001,Uasin Gishu,Gentamicin 80mg,Gentamicin,1307,207,3,8,7,County Depot,90,4.8,Yes
+UAS_002,Uasin Gishu,Amoxicillin 500mg,Amoxicillin,1073,13,1,14,16,KEMSA,62,0.4,Yes
+UAS_002,Uasin Gishu,Paracetamol 500mg,Paracetamol,1760,1324,2,16,8,KEMSA,94,22.6,Yes
+UAS_002,Uasin Gishu,Coartem 20/120mg,Coartem,2127,1756,6,14,22,Private Vendor,55,24.8,Yes
+UAS_002,Uasin Gishu,Insulin 100IU,Insulin,861,548,7,11,7,Private Vendor,77,19.1,Yes
+UAS_002,Uasin Gishu,Ceftriaxone 1g,Ceftriaxone,1937,754,2,17,5,Private Vendor,56,11.7,Yes
+UAS_002,Uasin Gishu,Metformin 500mg,Metformin,1555,1840,4,7,8,Private Vendor,77,35.5,No
+UAS_002,Uasin Gishu,Ibuprofen 400mg,Ibuprofen,1587,1405,3,19,23,County Depot,81,26.6,Yes
+UAS_002,Uasin Gishu,ORS Sachet,ORS,1473,1140,1,6,6,Private Vendor,64,23.2,No
+UAS_002,Uasin Gishu,Vitamin B Complex,Vitamin,1641,931,5,9,14,KEMSA,61,17.0,No
+UAS_002,Uasin Gishu,Dextrose 5%,Dextrose,729,1575,4,17,5,KEMSA,84,64.8,Yes
+UAS_002,Uasin Gishu,Cotrimoxazole 480mg,Cotrimoxazole,993,1543,3,18,14,County Depot,93,46.6,Yes
+UAS_002,Uasin Gishu,Salbutamol Inhaler,Salbutamol,725,333,1,7,9,KEMSA,87,13.8,No
+UAS_002,Uasin Gishu,Omeprazole 20mg,Omeprazole,752,317,5,17,18,County Depot,88,12.6,Yes
+UAS_002,Uasin Gishu,Hydralazine 25mg,Hydralazine,2208,1107,1,9,10,Private Vendor,66,15.0,No
+UAS_002,Uasin Gishu,Gentamicin 80mg,Gentamicin,2240,27,1,5,9,Private Vendor,54,0.4,Yes
+UAS_003,Uasin Gishu,Amoxicillin 500mg,Amoxicillin,2246,1472,7,14,8,Private Vendor,94,19.7,Yes
+UAS_003,Uasin Gishu,Paracetamol 500mg,Paracetamol,829,269,9,12,16,County Depot,79,9.7,Yes
+UAS_003,Uasin Gishu,Coartem 20/120mg,Coartem,1480,132,3,10,15,Private Vendor,61,2.7,Yes
+UAS_003,Uasin Gishu,Insulin 100IU,Insulin,775,885,3,13,9,County Depot,96,34.3,No
+UAS_003,Uasin Gishu,Ceftriaxone 1g,Ceftriaxone,2220,1227,4,19,21,Private Vendor,93,16.6,Yes
+UAS_003,Uasin Gishu,Metformin 500mg,Metformin,2047,155,5,14,24,Private Vendor,99,2.3,Yes
+UAS_003,Uasin Gishu,Ibuprofen 400mg,Ibuprofen,1168,510,4,3,7,County Depot,55,13.1,No
+UAS_003,Uasin Gishu,ORS Sachet,ORS,1282,836,0,19,23,Private Vendor,63,19.6,Yes
+UAS_003,Uasin Gishu,Vitamin B Complex,Vitamin,1235,489,3,13,6,KEMSA,74,11.9,No
+UAS_003,Uasin Gishu,Dextrose 5%,Dextrose,1408,1062,7,17,15,Private Vendor,99,22.6,Yes
+UAS_003,Uasin Gishu,Cotrimoxazole 480mg,Cotrimoxazole,1118,1451,5,15,24,Private Vendor,65,38.9,No
+UAS_003,Uasin Gishu,Salbutamol Inhaler,Salbutamol,2169,745,6,10,22,County Depot,70,10.3,Yes
+UAS_003,Uasin Gishu,Omeprazole 20mg,Omeprazole,328,1014,7,8,9,Private Vendor,96,92.7,Yes
+UAS_003,Uasin Gishu,Hydralazine 25mg,Hydralazine,285,1198,1,3,15,Private Vendor,59,126.1,No
+UAS_003,Uasin Gishu,Gentamicin 80mg,Gentamicin,2361,1168,9,10,19,County Depot,89,14.8,Yes
+GAR_001,Garissa,Amoxicillin 500mg,Amoxicillin,787,986,7,16,8,Private Vendor,82,37.6,Yes
+GAR_001,Garissa,Paracetamol 500mg,Paracetamol,1510,1999,4,18,9,Private Vendor,90,39.7,Yes
+GAR_001,Garissa,Coartem 20/120mg,Coartem,1209,703,5,11,5,County Depot,90,17.4,No
+GAR_001,Garissa,Insulin 100IU,Insulin,1312,687,8,15,13,KEMSA,60,15.7,Yes
+GAR_001,Garissa,Ceftriaxone 1g,Ceftriaxone,1547,1633,5,16,8,County Depot,87,31.7,Yes
+GAR_001,Garissa,Metformin 500mg,Metformin,218,1477,1,15,13,Private Vendor,72,203.3,No
+GAR_001,Garissa,Ibuprofen 400mg,Ibuprofen,1050,1388,0,9,19,County Depot,50,39.7,No
+GAR_001,Garissa,ORS Sachet,ORS,910,142,4,3,21,County Depot,81,4.7,Yes
+GAR_001,Garissa,Vitamin B Complex,Vitamin,2163,101,9,13,7,KEMSA,57,1.4,Yes
+GAR_001,Garissa,Dextrose 5%,Dextrose,1161,941,8,5,12,KEMSA,97,24.3,Yes
+GAR_001,Garissa,Cotrimoxazole 480mg,Cotrimoxazole,1673,453,4,14,9,Private Vendor,83,8.1,No
+GAR_001,Garissa,Salbutamol Inhaler,Salbutamol,503,1316,3,17,15,County Depot,97,78.5,Yes
+GAR_001,Garissa,Omeprazole 20mg,Omeprazole,1549,1837,1,14,15,Private Vendor,94,35.6,No
+GAR_001,Garissa,Hydralazine 25mg,Hydralazine,220,406,6,18,19,County Depot,64,55.4,Yes
+GAR_001,Garissa,Gentamicin 80mg,Gentamicin,2027,714,2,17,8,County Depot,70,10.6,Yes
+GAR_002,Garissa,Amoxicillin 500mg,Amoxicillin,340,469,2,4,18,Private Vendor,53,41.4,No
+GAR_002,Garissa,Paracetamol 500mg,Paracetamol,572,1587,2,10,20,Private Vendor,91,83.2,No
+GAR_002,Garissa,Coartem 20/120mg,Coartem,1643,669,1,4,21,County Depot,62,12.2,No
+GAR_002,Garissa,Insulin 100IU,Insulin,2337,1368,6,14,14,Private Vendor,88,17.6,Yes
+GAR_002,Garissa,Ceftriaxone 1g,Ceftriaxone,2406,1606,7,19,14,KEMSA,91,20.0,Yes
+GAR_002,Garissa,Metformin 500mg,Metformin,1151,35,3,6,11,Private Vendor,50,0.9,Yes
+GAR_002,Garissa,Ibuprofen 400mg,Ibuprofen,1395,1399,9,17,17,County Depot,71,30.1,Yes
+GAR_002,Garissa,ORS Sachet,ORS,1500,725,8,11,19,KEMSA,59,14.5,Yes
+GAR_002,Garissa,Vitamin B Complex,Vitamin,1183,377,8,12,12,County Depot,73,9.6,Yes
+GAR_002,Garissa,Dextrose 5%,Dextrose,919,1072,9,7,8,County Depot,99,35.0,Yes
+GAR_002,Garissa,Cotrimoxazole 480mg,Cotrimoxazole,345,914,3,12,5,Private Vendor,99,79.5,No
+GAR_002,Garissa,Salbutamol Inhaler,Salbutamol,780,686,0,5,16,Private Vendor,83,26.4,No
+GAR_002,Garissa,Omeprazole 20mg,Omeprazole,872,630,4,19,20,KEMSA,86,21.7,Yes
+GAR_002,Garissa,Hydralazine 25mg,Hydralazine,1187,1478,9,11,18,County Depot,62,37.4,Yes
+GAR_002,Garissa,Gentamicin 80mg,Gentamicin,640,1277,8,4,7,KEMSA,56,59.9,Yes
+GAR_003,Garissa,Amoxicillin 500mg,Amoxicillin,1777,1397,6,11,21,Private Vendor,60,23.6,Yes
+GAR_003,Garissa,Paracetamol 500mg,Paracetamol,1198,1303,2,6,10,Private Vendor,91,32.6,No
+GAR_003,Garissa,Coartem 20/120mg,Coartem,1390,620,3,10,9,County Depot,82,13.4,No
+GAR_003,Garissa,Insulin 100IU,Insulin,2122,72,7,3,10,Private Vendor,90,1.0,Yes
+GAR_003,Garissa,Ceftriaxone 1g,Ceftriaxone,907,1804,0,4,9,KEMSA,93,59.7,No
+GAR_003,Garissa,Metformin 500mg,Metformin,359,148,7,8,12,Private Vendor,99,12.4,Yes
+GAR_003,Garissa,Ibuprofen 400mg,Ibuprofen,266,1013,9,5,10,KEMSA,51,114.2,Yes
+GAR_003,Garissa,ORS Sachet,ORS,1395,769,5,19,7,KEMSA,83,16.5,Yes
+GAR_003,Garissa,Vitamin B Complex,Vitamin,1694,1821,3,10,16,County Depot,85,32.2,No
+GAR_003,Garissa,Dextrose 5%,Dextrose,2068,1500,8,18,14,Private Vendor,79,21.8,Yes
+GAR_003,Garissa,Cotrimoxazole 480mg,Cotrimoxazole,832,54,0,18,16,KEMSA,57,1.9,Yes
+GAR_003,Garissa,Salbutamol Inhaler,Salbutamol,1879,1565,6,10,9,Private Vendor,69,25.0,Yes
+GAR_003,Garissa,Omeprazole 20mg,Omeprazole,1471,363,0,8,22,County Depot,57,7.4,No
+GAR_003,Garissa,Hydralazine 25mg,Hydralazine,1966,799,0,18,16,Private Vendor,87,12.2,Yes
+GAR_003,Garissa,Gentamicin 80mg,Gentamicin,1723,737,3,3,22,Private Vendor,94,12.8,No
+MER_001,Meru,Amoxicillin 500mg,Amoxicillin,1801,360,4,4,13,Private Vendor,50,6.0,No
+MER_001,Meru,Paracetamol 500mg,Paracetamol,2066,834,3,6,22,KEMSA,55,12.1,No
+MER_001,Meru,Coartem 20/120mg,Coartem,1642,405,5,7,24,Private Vendor,91,7.4,No
+MER_001,Meru,Insulin 100IU,Insulin,211,1262,0,12,10,KEMSA,67,179.4,No
+MER_001,Meru,Ceftriaxone 1g,Ceftriaxone,1652,1826,7,12,18,KEMSA,55,33.2,Yes
+MER_001,Meru,Metformin 500mg,Metformin,1147,1549,8,17,7,County Depot,51,40.5,Yes
+MER_001,Meru,Ibuprofen 400mg,Ibuprofen,329,930,1,16,24,County Depot,67,84.8,Yes
+MER_001,Meru,ORS Sachet,ORS,465,1560,1,3,8,KEMSA,80,100.6,No
+MER_001,Meru,Vitamin B Complex,Vitamin,2005,832,5,16,24,KEMSA,52,12.4,Yes
+MER_001,Meru,Dextrose 5%,Dextrose,2160,901,8,15,6,County Depot,57,12.5,Yes
+MER_001,Meru,Cotrimoxazole 480mg,Cotrimoxazole,1163,536,3,15,16,County Depot,81,13.8,No
+MER_001,Meru,Salbutamol Inhaler,Salbutamol,327,1631,3,8,15,County Depot,51,149.6,No
+MER_001,Meru,Omeprazole 20mg,Omeprazole,1283,662,2,7,23,KEMSA,83,15.5,No
+MER_001,Meru,Hydralazine 25mg,Hydralazine,841,381,1,17,13,County Depot,72,13.6,Yes
+MER_001,Meru,Gentamicin 80mg,Gentamicin,2330,1928,2,11,18,KEMSA,56,24.8,No
+MER_002,Meru,Amoxicillin 500mg,Amoxicillin,599,763,0,6,8,Private Vendor,88,38.2,No
+MER_002,Meru,Paracetamol 500mg,Paracetamol,1775,784,4,9,24,County Depot,78,13.3,No
+MER_002,Meru,Coartem 20/120mg,Coartem,1019,419,5,9,22,County Depot,86,12.3,No
+MER_002,Meru,Insulin 100IU,Insulin,1797,767,2,9,18,County Depot,56,12.8,No
+MER_002,Meru,Ceftriaxone 1g,Ceftriaxone,1964,597,4,4,10,County Depot,64,9.1,No
+MER_002,Meru,Metformin 500mg,Metformin,2111,1446,4,3,17,KEMSA,70,20.5,No
+MER_002,Meru,Ibuprofen 400mg,Ibuprofen,2209,241,4,7,17,Private Vendor,81,3.3,Yes
+MER_002,Meru,ORS Sachet,ORS,363,464,2,19,15,County Depot,70,38.3,Yes
+MER_002,Meru,Vitamin B Complex,Vitamin,1991,182,4,6,6,Private Vendor,97,2.7,Yes
+MER_002,Meru,Dextrose 5%,Dextrose,793,743,2,11,24,County Depot,78,28.1,No
+MER_002,Meru,Cotrimoxazole 480mg,Cotrimoxazole,2268,553,0,11,21,KEMSA,58,7.3,No
+MER_002,Meru,Salbutamol Inhaler,Salbutamol,624,128,1,18,5,Private Vendor,59,6.2,Yes
+MER_002,Meru,Omeprazole 20mg,Omeprazole,441,1849,7,13,6,County Depot,57,125.8,Yes
+MER_002,Meru,Hydralazine 25mg,Hydralazine,2447,944,0,15,23,KEMSA,54,11.6,No
+MER_002,Meru,Gentamicin 80mg,Gentamicin,1639,939,0,7,12,County Depot,62,17.2,No
+MER_003,Meru,Amoxicillin 500mg,Amoxicillin,286,42,0,15,23,Private Vendor,73,4.4,Yes
+MER_003,Meru,Paracetamol 500mg,Paracetamol,1868,147,4,10,18,County Depot,85,2.4,Yes
+MER_003,Meru,Coartem 20/120mg,Coartem,1874,435,2,9,23,County Depot,77,7.0,No
+MER_003,Meru,Insulin 100IU,Insulin,762,1514,9,7,9,KEMSA,79,59.6,Yes
+MER_003,Meru,Ceftriaxone 1g,Ceftriaxone,2237,1375,7,12,10,Private Vendor,96,18.4,Yes
+MER_003,Meru,Metformin 500mg,Metformin,1191,367,0,10,12,County Depot,74,9.2,No
+MER_003,Meru,Ibuprofen 400mg,Ibuprofen,1162,1584,3,6,18,County Depot,90,40.9,No
+MER_003,Meru,ORS Sachet,ORS,2416,216,9,12,8,KEMSA,61,2.7,Yes
+MER_003,Meru,Vitamin B Complex,Vitamin,2082,1511,1,15,20,KEMSA,81,21.8,No
+MER_003,Meru,Dextrose 5%,Dextrose,1449,522,9,17,21,Private Vendor,89,10.8,Yes
+MER_003,Meru,Cotrimoxazole 480mg,Cotrimoxazole,2430,1992,8,10,18,Private Vendor,74,24.6,Yes
+MER_003,Meru,Salbutamol Inhaler,Salbutamol,2203,1748,2,16,21,Private Vendor,70,23.8,Yes
+MER_003,Meru,Omeprazole 20mg,Omeprazole,2369,1567,6,9,21,Private Vendor,61,19.8,Yes
+MER_003,Meru,Hydralazine 25mg,Hydralazine,1456,942,1,15,12,County Depot,95,19.4,No
+MER_003,Meru,Gentamicin 80mg,Gentamicin,2485,646,6,14,15,Private Vendor,71,7.8,Yes
+BUN_001,Bungoma,Amoxicillin 500mg,Amoxicillin,861,234,8,15,22,Private Vendor,51,8.2,Yes
+BUN_001,Bungoma,Paracetamol 500mg,Paracetamol,412,462,3,17,23,Private Vendor,72,33.6,Yes
+BUN_001,Bungoma,Coartem 20/120mg,Coartem,287,1067,5,13,9,Private Vendor,82,111.5,No
+BUN_001,Bungoma,Insulin 100IU,Insulin,714,702,5,9,16,Private Vendor,96,29.5,No
+BUN_001,Bungoma,Ceftriaxone 1g,Ceftriaxone,1504,1151,4,17,12,KEMSA,91,23.0,Yes
+BUN_001,Bungoma,Metformin 500mg,Metformin,2376,1899,4,5,5,KEMSA,53,24.0,No
+BUN_001,Bungoma,Ibuprofen 400mg,Ibuprofen,1706,1247,9,4,15,County Depot,74,21.9,Yes
+BUN_001,Bungoma,ORS Sachet,ORS,1628,1919,6,4,13,KEMSA,97,35.4,Yes
+BUN_001,Bungoma,Vitamin B Complex,Vitamin,1236,1416,3,6,14,KEMSA,75,34.4,No
+BUN_001,Bungoma,Dextrose 5%,Dextrose,513,565,0,16,18,County Depot,83,33.0,Yes
+BUN_001,Bungoma,Cotrimoxazole 480mg,Cotrimoxazole,1978,1758,6,8,23,County Depot,86,26.7,Yes
+BUN_001,Bungoma,Salbutamol Inhaler,Salbutamol,897,131,3,12,7,County Depot,75,4.4,Yes
+BUN_001,Bungoma,Omeprazole 20mg,Omeprazole,2028,1765,4,10,11,KEMSA,70,26.1,No
+BUN_001,Bungoma,Hydralazine 25mg,Hydralazine,2449,37,3,15,24,County Depot,66,0.5,Yes
+BUN_001,Bungoma,Gentamicin 80mg,Gentamicin,725,1538,7,7,20,County Depot,53,63.6,Yes
+BUN_002,Bungoma,Amoxicillin 500mg,Amoxicillin,361,1693,1,19,18,County Depot,68,140.7,Yes
+BUN_002,Bungoma,Paracetamol 500mg,Paracetamol,605,663,9,8,8,KEMSA,68,32.9,Yes
+BUN_002,Bungoma,Coartem 20/120mg,Coartem,631,1708,3,19,5,Private Vendor,67,81.2,Yes
+BUN_002,Bungoma,Insulin 100IU,Insulin,1030,1651,0,17,15,County Depot,94,48.1,Yes
+BUN_002,Bungoma,Ceftriaxone 1g,Ceftriaxone,360,400,5,6,24,KEMSA,97,33.3,No
+BUN_002,Bungoma,Metformin 500mg,Metformin,1270,398,5,17,18,Private Vendor,60,9.4,Yes
+BUN_002,Bungoma,Ibuprofen 400mg,Ibuprofen,2384,601,4,12,22,County Depot,52,7.6,No
+BUN_002,Bungoma,ORS Sachet,ORS,1172,1642,0,15,10,County Depot,66,42.0,No
+BUN_002,Bungoma,Vitamin B Complex,Vitamin,2100,562,4,12,7,Private Vendor,95,8.0,No
+BUN_002,Bungoma,Dextrose 5%,Dextrose,1121,580,4,19,14,KEMSA,54,15.5,Yes
+BUN_002,Bungoma,Cotrimoxazole 480mg,Cotrimoxazole,1825,1283,6,9,22,KEMSA,84,21.1,Yes
+BUN_002,Bungoma,Salbutamol Inhaler,Salbutamol,840,791,8,6,10,Private Vendor,90,28.2,Yes
+BUN_002,Bungoma,Omeprazole 20mg,Omeprazole,1405,685,8,6,16,County Depot,91,14.6,Yes
+BUN_002,Bungoma,Hydralazine 25mg,Hydralazine,1565,1243,6,5,18,KEMSA,59,23.8,Yes
+BUN_002,Bungoma,Gentamicin 80mg,Gentamicin,2214,1641,8,15,10,KEMSA,93,22.2,Yes
+BUN_003,Bungoma,Amoxicillin 500mg,Amoxicillin,1040,1836,3,13,24,County Depot,67,53.0,No
+BUN_003,Bungoma,Paracetamol 500mg,Paracetamol,2497,874,8,6,22,KEMSA,82,10.5,Yes
+BUN_003,Bungoma,Coartem 20/120mg,Coartem,2210,1542,5,17,22,County Depot,81,20.9,Yes
+BUN_003,Bungoma,Insulin 100IU,Insulin,1371,1495,6,12,16,Private Vendor,63,32.7,Yes
+BUN_003,Bungoma,Ceftriaxone 1g,Ceftriaxone,1536,164,9,7,7,County Depot,72,3.2,Yes
+BUN_003,Bungoma,Metformin 500mg,Metformin,1953,1956,7,19,23,Private Vendor,74,30.0,Yes
+BUN_003,Bungoma,Ibuprofen 400mg,Ibuprofen,1052,383,8,11,5,KEMSA,99,10.9,Yes
+BUN_003,Bungoma,ORS Sachet,ORS,828,1731,9,9,5,KEMSA,66,62.7,Yes
+BUN_003,Bungoma,Vitamin B Complex,Vitamin,1887,1596,1,13,13,Private Vendor,88,25.4,No
+BUN_003,Bungoma,Dextrose 5%,Dextrose,376,528,1,8,18,KEMSA,55,42.1,No
+BUN_003,Bungoma,Cotrimoxazole 480mg,Cotrimoxazole,1052,1540,1,18,6,Private Vendor,59,43.9,Yes
+BUN_003,Bungoma,Salbutamol Inhaler,Salbutamol,297,1167,2,9,16,KEMSA,73,117.9,No
+BUN_003,Bungoma,Omeprazole 20mg,Omeprazole,1517,1979,9,5,23,County Depot,98,39.1,Yes
+BUN_003,Bungoma,Hydralazine 25mg,Hydralazine,1159,31,6,6,18,KEMSA,71,0.8,Yes
+BUN_003,Bungoma,Gentamicin 80mg,Gentamicin,1878,375,7,17,24,Private Vendor,77,6.0,Yes
